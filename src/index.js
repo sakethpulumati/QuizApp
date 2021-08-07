@@ -6,6 +6,7 @@ import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
+    <h1 style={{textAlign:"center"}}>Quiz App💭 </h1>
     <App />
   </React.StrictMode>,
   document.getElementById('root')
